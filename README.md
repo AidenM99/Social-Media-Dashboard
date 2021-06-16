@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://aidenm99.github.io/Social-Media-Dashboard/
 
 ## My process
 
@@ -43,8 +43,6 @@ Users should be able to:
 - JavaScript ES6	
 
 ### What I learned
-
-To see how you can add code snippets, see below:
 
 I reinforced my knowledge of CSS Grid:
 
