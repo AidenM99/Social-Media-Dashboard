@@ -76,7 +76,7 @@ I learned how to lighten or darken an element on hover:
 }
 ```
 
-I furthered my skills on responsive design and changed the order of elements using flexbox to achieve my desired layout:
+- Furthered my skills on responsive design and changed the order of elements using flexbox to achieve my desired layout:
 
 ```css
 @media (max-width:890px) {
