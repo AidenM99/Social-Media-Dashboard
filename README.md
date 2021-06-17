@@ -44,7 +44,7 @@ Users should be able to:
 
 ### What I learned
 
-I reinforced my knowledge of CSS Grid:
+- Reinforced my knowledge of CSS Grid:
 
 ```css
 .top-card-container {
@@ -54,7 +54,7 @@ I reinforced my knowledge of CSS Grid:
 }
 ```
 
-I learned how to add animations using CSS: 
+- Learned how to add smooth transitions using CSS: 
 
 ```css
 .inner-circle {
@@ -65,7 +65,7 @@ I learned how to add animations using CSS:
 }
 ```
 
-I learned how to lighten or darken an element on hover: 
+- Learned how to lighten or darken an element on hover 
 
 ```css
 .bottom-card-dark:hover {
@@ -76,7 +76,7 @@ I learned how to lighten or darken an element on hover:
 }
 ```
 
-- Furthered my skills on responsive design and changed the order of elements using flexbox to achieve my desired layout:
+- Furthered my skills on responsive design and practiced changing the order of items using flexbox to achieve my desired layout
 
 ```css
 @media (max-width:890px) {
@@ -109,11 +109,13 @@ I learned how to lighten or darken an element on hover:
 }
 ```
 
-I got the chance to practice selecting every element using vanilla JS and also used togglers: 
+- Using togglers
 
 ```js
 body.classList.toggle("background-light");
 ```
+
+- Selecting every element using vanilla JS
 
 ```js
 var textOne = document.querySelectorAll(".text-dark-one").length;
